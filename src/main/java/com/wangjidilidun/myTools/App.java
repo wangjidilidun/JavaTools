@@ -4,7 +4,9 @@ import java.io.FileNotFoundException;
 
 import org.apache.log4j.Logger;
 
+import com.wangjidilidun.gdalFileToolBox.CreateShapeFile;
 import com.wangjidilidun.jsonToolBox.JsonFileIO;
+import com.wangjidilidun.pythonToolBox.ExcutePythonFile;
 import com.wangjidilidun.utils.ToolArgs;
 
 /**
@@ -28,6 +30,15 @@ public class App
 				e.printStackTrace();
 			}
     	}
+    	else if("pythonToolBox".equals(argsParser.getStrToolType())) {
+    		ExcutePythonFile epf = new ExcutePythonFile();
+    		epf.executePyFile();
+    	}
+    	else if("gdalToolBox".equals(argsParser.getStrToolType())) {
+    		CreateShapeFile csf = new CreateShapeFile();
+    		csf.test();
+    	}
+    	
         System.out.println( "Hello World!" );
     }
 }
