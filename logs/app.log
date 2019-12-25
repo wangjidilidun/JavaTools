@@ -1,0 +1,8 @@
+[INFO][2019-12-24 17:24:49,261][com.wangjidilidun.myTools.App]参数： 	ToolArgs [strToolType=opencvToolBox, strQueryFeatureUrl=null, strAddFeatureURL=null, strDeleteFeatureURL=null, bDeleteAllFeature=false, bTransferData=false, strOracleURL=null, strOracleUserName=null, strOraclePassword=null]
+[DEBUG][2019-12-24 17:24:49,266][java.lang.Class]debug
+[INFO][2019-12-24 17:31:00,224][com.wangjidilidun.myTools.App]参数： 	ToolArgs [strToolType=opencvToolBox, strQueryFeatureUrl=null, strAddFeatureURL=null, strDeleteFeatureURL=null, bDeleteAllFeature=false, bTransferData=false, strOracleURL=null, strOracleUserName=null, strOraclePassword=null]
+[DEBUG][2019-12-24 17:31:00,227][java.lang.Class]debug
+[INFO][2019-12-24 17:31:32,273][com.wangjidilidun.myTools.App]参数： 	ToolArgs [strToolType=opencvToolBox, strQueryFeatureUrl=null, strAddFeatureURL=null, strDeleteFeatureURL=null, bDeleteAllFeature=false, bTransferData=false, strOracleURL=null, strOracleUserName=null, strOraclePassword=null]
+[DEBUG][2019-12-24 17:31:32,277][java.lang.Class]debug
+[INFO][2019-12-24 17:31:50,165][com.wangjidilidun.myTools.App]参数： 	ToolArgs [strToolType=opencvToolBox, strQueryFeatureUrl=null, strAddFeatureURL=null, strDeleteFeatureURL=null, bDeleteAllFeature=false, bTransferData=false, strOracleURL=null, strOracleUserName=null, strOraclePassword=null]
+[DEBUG][2019-12-24 17:31:50,169][java.lang.Class]debug
